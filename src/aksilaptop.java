@@ -9,5 +9,7 @@
  * @author HARDWARE
  */
 public class aksilaptop {
-    
+    public static void main(String[] args){
+        laptop adul = new laptop ();
+    }
 }
