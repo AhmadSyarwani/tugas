@@ -9,9 +9,17 @@
  * @author HARDWARE
  */
 public class laptop {
-    string merek;
-    string warna;
-    string hdd;
-    string ram;
-    string processor;
+    String merek;
+    String warna;
+    String hdd;
+    String ram;
+    String processor;
+    
+    void cetakInfo(){
+        System.out.println("merek       :"+merek);
+        System.out.println("warna       :"+warna);
+        System.out.println("hdd         :"+hdd);
+        System.out.println("ram         :"+ram);
+        System.out.println("processor   :"+processor);
+    } 
 }
