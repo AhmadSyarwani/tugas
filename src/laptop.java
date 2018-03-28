@@ -9,5 +9,9 @@
  * @author HARDWARE
  */
 public class laptop {
-    
+    string merek;
+    string warna;
+    string hdd;
+    string ram;
+    string processor;
 }
