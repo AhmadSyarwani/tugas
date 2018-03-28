@@ -11,5 +11,11 @@
 public class aksilaptop {
     public static void main(String[] args){
         laptop adul = new laptop ();
+        
+        adul.merek="acer";
+        adul.warna="biru";
+        adul.hdd="500GB";
+        adul.ram="DDR4";
+        adul.processor="intel cote i5";
     }
 }
